@@ -9,7 +9,7 @@ The goal of this assignment is to perform a vulnerability assessment.
 
     git clone https://github.com/michaelborck/isys6009-assignment-s1-2023.git
 
-2. Navigate to the `isys6009-assignment` directory:
+2. Navigate to the `isys6009-assignment-s1-2023` directory:
 
     cd isys6009-assignment
 
