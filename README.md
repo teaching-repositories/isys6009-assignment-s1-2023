@@ -7,7 +7,7 @@ The goal of this assignment is to perform a vulnerability assessment.
 
 1. Clone this repository to your local machine:
 
-    git clone https://github.com/michaelborck/isys6009-assignment.git
+    git clone https://github.com/michaelborck/isys6009-assignment-s1-2023.git
 
 2. Navigate to the `isys6009-assignment` directory:
 
